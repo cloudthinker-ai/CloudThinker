@@ -1,8 +1,16 @@
+<div align="center">
+
 # CloudThinker
 
-**Autonomous Cloud Operations. Unified.**
+### Autonomous Cloud Operations. Unified.
 
-CloudThinker is a VibeOps Platform powered by AI agents that manage infrastructure, review code, resolve incidents, and optimize costs across multi-cloud environments, Kubernetes, and everything in between.
+AI agents that manage your infrastructure, review code, resolve incidents, and optimize costs — across multi-clouds, Kubernetes, and everything in between.
+
+<img src="assets/unified-graph.png" alt="CloudThinker Platform" width="700" />
+
+</div>
+
+---
 
 > This repository is the public issue tracker for CloudThinker. Customers and community members can [open issues](../../issues) to report bugs, request features, or ask questions. Our Product team actively monitors and triages all submissions.
 
@@ -12,24 +20,15 @@ CloudThinker is a VibeOps Platform powered by AI agents that manage infrastructu
 
 CloudThinker unifies AI-driven cloud operations into a single platform, combining intelligent agents with modular capabilities to automate routine operational tasks and deliver significant cloud cost savings.
 
-### Core Modules
-
-| Module | Description |
-|--------|-------------|
-| [Code Review](#code-review) | AI-powered PR analysis ranked #1 in benchmarks — catches bugs, vulnerabilities, and performance issues with 96% accuracy |
-| [Incident Response](#incident-response) | Automated Root Cause Analysis with alert correlation, runbook execution, and topology-aware investigation |
-| [IT HelpDesk](#it-helpdesk) | AI-first employee support that auto-resolves 70% of tickets in seconds |
-| [Infrastructure & Cloud Ops](#infrastructure--cloud-ops) | Multi-agent cloud operations with 325+ pre-built operations across cost, security, and performance |
-| [CloudKeeper](#cloudkeeper) | Continuous cloud governance engine monitoring cost anomalies, security vulnerabilities, and compliance drift 24/7 |
-| [SlackOps](#slackops) | Turn Slack into an intelligent operations center — manage cloud infrastructure without leaving chat |
-
 ---
 
-## Modules
+## Core Modules
 
 ### Code Review
 
-AI-powered PR analysis that catches bugs, vulnerabilities, and performance issues with incident-aware context.
+AI-powered PR analysis ranked #1 in benchmarks — catches bugs, vulnerabilities, and performance issues with 96% accuracy.
+
+<img src="assets/modules/code-review.png" alt="Code Review" width="600" />
 
 - 98.4% critical & high-severity bug detection
 - 8.5 minutes average review time
@@ -39,9 +38,13 @@ AI-powered PR analysis that catches bugs, vulnerabilities, and performance issue
 - Pipeline error investigation
 - Seamless integration with GitHub and GitLab
 
+---
+
 ### Incident Response
 
-From alert to root cause in minutes, not hours.
+From alert to root cause in minutes, not hours. Automated Root Cause Analysis with alert correlation, runbook execution, and topology-aware investigation.
+
+<img src="assets/modules/incident.png" alt="Incident Response" width="600" />
 
 - Automated evidence collection from logs, metrics, traces, config changes, and deployment events
 - Hypothesis testing and systematic validation
@@ -50,50 +53,129 @@ From alert to root cause in minutes, not hours.
 - Topology mapping for service dependencies
 - Runbook automation with graduated autonomy controls
 
+---
+
 ### IT HelpDesk
 
 AI-first employee support with a 3-tier architecture that auto-resolves 70% of tickets in seconds, significantly reducing support backlog and resolution times.
 
+<img src="assets/modules/helpdesk.png" alt="IT HelpDesk" width="600" />
+
+---
+
 ### Infrastructure & Cloud Ops
 
-Multi-agent cloud operations platform covering 325+ pre-built operations:
+Multi-agent cloud operations platform covering 325+ pre-built operations across cost, security, and performance.
+
+<img src="assets/modules/infrastructure.png" alt="Infrastructure & Cloud Ops" width="600" />
 
 - Cost optimization (EC2 usage analysis, reserved instance optimization, storage optimization)
 - Security posture (security group audits, encryption checks)
 - Performance management and monitoring
 - Multi-cloud coverage across AWS, Azure, and GCP
 
+---
+
 ### CloudKeeper
 
-Continuous cloud governance engine that monitors 24/7 for:
+Continuous cloud governance engine that monitors 24/7 for cost anomalies, security vulnerabilities, and compliance drift.
+
+<img src="assets/modules/cloudkeeper.png" alt="CloudKeeper" width="600" />
 
 - Cost anomalies and optimization opportunities (30%+ cloud bill reduction)
 - Security vulnerabilities and compliance drift
 - AI-powered remediation with autonomous guardrails
 - Multi-cloud support
 
+---
+
 ### SlackOps
 
 Turn Slack into an intelligent operations center. Manage cloud infrastructure directly from chat, reducing context switching and accelerating operations.
+
+<img src="assets/modules/slackops.png" alt="SlackOps" width="600" />
 
 ---
 
 ## Platform Capabilities
 
-CloudThinker's platform is built on 10 core capabilities:
+### Skills Framework
 
-| Capability | Description |
-|------------|-------------|
-| **Skills Framework** | 100+ pre-built, composable agent skills. Create custom skills with `/create-skill` in natural language |
-| **Graduated Autonomy** | 4-level approval framework (Notify → Suggest → Act with approval → Fully autonomous) with RBAC governance |
-| **Sandbox Isolation** | 3-tier isolation (Organization → Workspace → Ephemeral Sandbox) using isolated microVMs with full audit trail |
-| **Runbook** | 325+ pre-built operations playbooks with scheduled, event-triggered, and chained automation |
-| **Connections** | 50+ built-in and MCP connectors across DevOps, cloud, and ITSM ecosystems |
-| **Knowledge Base** | Unified knowledge graph with vectorized RAG — ingest docs, wikis, Slack threads, and runbooks |
-| **Dynamic Topology** | Real-time dependency mapping with auto-discovery across multi-cloud infrastructure |
-| **Memory Architecture** | Short-term, long-term, semantic, and file memory for context-aware agents that learn and improve |
-| **Guardrails Engine** | PII detection, schema enforcement, and injection defense on every request |
-| **Observability** | OpenTelemetry tracing, LLM-as-judge evaluation, and executive dashboards |
+100+ pre-built, composable agent skills. Create custom skills with `/create-skill` in natural language.
+
+<img src="assets/capabilities/skills.png" alt="Skills Framework" width="600" />
+
+---
+
+### Graduated Autonomy
+
+4-level approval framework (Notify → Suggest → Act with approval → Fully autonomous) with RBAC governance.
+
+<img src="assets/capabilities/autonomy.png" alt="Graduated Autonomy" width="600" />
+
+---
+
+### Sandbox Isolation
+
+3-tier isolation (Organization → Workspace → Ephemeral Sandbox) using isolated microVMs with full audit trail.
+
+<img src="assets/capabilities/sandbox.png" alt="Sandbox Isolation" width="600" />
+
+---
+
+### Runbook
+
+325+ pre-built operations playbooks with scheduled, event-triggered, and chained automation.
+
+<img src="assets/capabilities/runbook.png" alt="Runbook" width="600" />
+
+---
+
+### Connections
+
+50+ built-in and MCP connectors across DevOps, cloud, and ITSM ecosystems. 100+ integrations with enterprise-grade security.
+
+<img src="assets/capabilities/connections.png" alt="Connections" width="600" />
+
+---
+
+### Knowledge Base
+
+Unified knowledge graph with vectorized RAG — ingest docs, wikis, Slack threads, and runbooks.
+
+<img src="assets/capabilities/knowledge.png" alt="Knowledge Base" width="600" />
+
+---
+
+### Dynamic Topology
+
+Real-time dependency mapping with auto-discovery across multi-cloud infrastructure.
+
+<img src="assets/capabilities/topology.png" alt="Dynamic Topology" width="600" />
+
+---
+
+### Memory Architecture
+
+Short-term, long-term, semantic, and file memory for context-aware agents that learn and improve.
+
+<img src="assets/capabilities/memory.png" alt="Memory Architecture" width="600" />
+
+---
+
+### Guardrails Engine
+
+PII detection, schema enforcement, and injection defense on every request.
+
+<img src="assets/capabilities/guardrails.png" alt="Guardrails Engine" width="600" />
+
+---
+
+### Observability
+
+OpenTelemetry tracing, LLM-as-judge evaluation, and executive dashboards.
+
+<img src="assets/capabilities/observability.png" alt="Observability" width="600" />
 
 ---
 
