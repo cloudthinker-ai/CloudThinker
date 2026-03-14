@@ -1,26 +1,33 @@
 <div align="center">
 
-<img src="assets/logo.svg" alt="CloudThinker" height="48" />
+<a href="https://cloudthinker.io"><img src="assets/logo.svg" alt="CloudThinker" height="56" /></a>
+
+<h3>Autonomous Cloud Operations. Unified.</h3>
+
+<p>AI agents that manage your infrastructure, review code, resolve incidents, and optimize costs —<br />across multi-clouds, Kubernetes, and everything in between.</p>
+
+<a href="https://cloudthinker.io/platform">Platform</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://docs.cloudthinker.io">Docs</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://cloudthinker.io/pricing">Pricing</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="../../issues">Report Issue</a>
 
 <br /><br />
 
-### Autonomous Cloud Operations. Unified.
-
-AI agents that manage your infrastructure, review code, resolve incidents, and optimize costs — across multi-clouds, Kubernetes, and everything in between.
-
-<img src="assets/unified-graph.png" alt="CloudThinker Platform" width="700" />
+<img src="assets/unified-graph.png" alt="CloudThinker Platform" width="720" />
 
 </div>
 
----
+<br />
 
-> This repository is the public issue tracker for CloudThinker. Customers and community members can [open issues](../../issues) to report bugs, request features, or ask questions. Our Product team actively monitors and triages all submissions.
+<div align="center">
 
----
+![Modules](https://img.shields.io/badge/Modules-6-0C93C0?style=for-the-badge)&nbsp;
+![Capabilities](https://img.shields.io/badge/Capabilities-10-09AAAA?style=for-the-badge)&nbsp;
+![Skills](https://img.shields.io/badge/Skills-100+-0FF080?style=for-the-badge)&nbsp;
+![Integrations](https://img.shields.io/badge/Integrations-100+-8B5CF6?style=for-the-badge)
 
-## Platform Overview
+</div>
 
-CloudThinker unifies AI-driven cloud operations into a single platform, combining intelligent agents with modular capabilities to automate routine operational tasks and deliver significant cloud cost savings.
+<br />
+
+> **Public Issue Tracker** — This repository is for customers and community members to [open issues](../../issues) to report bugs, request features, or ask questions. Our Product team actively monitors and triages all submissions.
 
 ---
 
@@ -29,36 +36,60 @@ CloudThinker unifies AI-driven cloud operations into a single platform, combinin
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="assets/modules/code-review.png" alt="Code Review" width="280" /><br />
-<b>Code Review</b><br />
-<sub>AI-powered PR analysis ranked #1 — catches bugs, vulnerabilities, and performance issues with 96% accuracy. 98.4% critical bug detection, 99.1% OWASP coverage.</sub>
+<br />
+<img src="assets/modules/code-review.png" alt="Code Review" width="280" />
+<br /><br />
+<b>Code Review</b>
+<br />
+<sub>AI-powered PR analysis ranked #1 — 96% accuracy,<br />98.4% critical bug detection, 99.1% OWASP coverage</sub>
+<br /><br />
 </td>
 <td align="center" width="33%">
-<img src="assets/modules/incident.png" alt="Incident Response" width="280" /><br />
-<b>Incident Response</b><br />
-<sub>From alert to root cause in minutes. Automated RCA with evidence collection, hypothesis testing, confidence scoring, and topology-aware investigation.</sub>
+<br />
+<img src="assets/modules/incident.png" alt="Incident Response" width="280" />
+<br /><br />
+<b>Incident Response</b>
+<br />
+<sub>Alert to root cause in minutes — automated RCA with<br />evidence collection and topology-aware investigation</sub>
+<br /><br />
 </td>
 <td align="center" width="33%">
-<img src="assets/modules/helpdesk.png" alt="IT HelpDesk" width="280" /><br />
-<b>IT HelpDesk</b><br />
-<sub>AI-first employee support with 3-tier architecture. Auto-resolves 70% of tickets in seconds, significantly reducing support backlog.</sub>
+<br />
+<img src="assets/modules/helpdesk.png" alt="IT HelpDesk" width="280" />
+<br /><br />
+<b>IT HelpDesk</b>
+<br />
+<sub>AI-first employee support — auto-resolves 70%<br />of tickets in seconds with 3-tier architecture</sub>
+<br /><br />
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="assets/modules/infrastructure.png" alt="Infrastructure & Cloud Ops" width="280" /><br />
-<b>Infrastructure & Cloud Ops</b><br />
-<sub>Multi-agent cloud operations with 325+ pre-built operations across cost optimization, security posture, and performance management.</sub>
+<br />
+<img src="assets/modules/infrastructure.png" alt="Infrastructure & Cloud Ops" width="280" />
+<br /><br />
+<b>Infrastructure & Cloud Ops</b>
+<br />
+<sub>100+ pre-built skills across cost optimization,<br />security posture, and performance management</sub>
+<br /><br />
 </td>
 <td align="center" width="33%">
-<img src="assets/modules/cloudkeeper.png" alt="CloudKeeper" width="280" /><br />
-<b>CloudKeeper</b><br />
-<sub>Continuous cloud governance engine monitoring 24/7 for cost anomalies, security vulnerabilities, and compliance drift. 30%+ cost savings.</sub>
+<br />
+<img src="assets/modules/cloudkeeper.png" alt="CloudKeeper" width="280" />
+<br /><br />
+<b>CloudKeeper</b>
+<br />
+<sub>24/7 cloud governance — cost anomalies, security<br />vulnerabilities, compliance drift. 30%+ savings</sub>
+<br /><br />
 </td>
 <td align="center" width="33%">
-<img src="assets/modules/slackops.png" alt="SlackOps" width="280" /><br />
-<b>SlackOps</b><br />
-<sub>Turn Slack into an intelligent operations center. Manage cloud infrastructure without leaving chat, reducing context switching.</sub>
+<br />
+<img src="assets/modules/slackops.png" alt="SlackOps" width="280" />
+<br /><br />
+<b>SlackOps</b>
+<br />
+<sub>Intelligent operations center in Slack — manage<br />cloud infrastructure without leaving chat</sub>
+<br /><br />
 </td>
 </tr>
 </table>
@@ -69,58 +100,104 @@ CloudThinker unifies AI-driven cloud operations into a single platform, combinin
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="assets/capabilities/skills.png" alt="Skills Framework" width="160" /><br />
-<b>Skills Framework</b><br />
-<sub>100+ composable agent skills. Create custom skills in natural language.</sub>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/skills.png" alt="Skills Framework" width="240" />
+<br /><br />
+<b>Skills Framework</b>
+<br />
+<sub>100+ composable agent skills.<br />Create custom skills in natural language.</sub>
+<br /><br />
 </td>
-<td align="center" width="20%">
-<img src="assets/capabilities/autonomy.png" alt="Graduated Autonomy" width="160" /><br />
-<b>Graduated Autonomy</b><br />
-<sub>4-level approval framework with RBAC governance.</sub>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/autonomy.png" alt="Graduated Autonomy" width="240" />
+<br /><br />
+<b>Graduated Autonomy</b>
+<br />
+<sub>4-level approval framework<br />with RBAC governance.</sub>
+<br /><br />
 </td>
-<td align="center" width="20%">
-<img src="assets/capabilities/sandbox.png" alt="Sandbox Isolation" width="160" /><br />
-<b>Sandbox Isolation</b><br />
-<sub>3-tier isolation with microVMs and full audit trail.</sub>
-</td>
-<td align="center" width="20%">
-<img src="assets/capabilities/runbook.png" alt="Runbook" width="160" /><br />
-<b>Runbook</b><br />
-<sub>325+ playbooks with scheduled and event-triggered automation.</sub>
-</td>
-<td align="center" width="20%">
-<img src="assets/capabilities/connections.png" alt="Connections" width="160" /><br />
-<b>Connections</b><br />
-<sub>50+ built-in and MCP connectors. 100+ integrations.</sub>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/sandbox.png" alt="Sandbox Isolation" width="240" />
+<br /><br />
+<b>Sandbox Isolation</b>
+<br />
+<sub>3-tier isolation with microVMs<br />and full audit trail.</sub>
+<br /><br />
 </td>
 </tr>
 <tr>
-<td align="center" width="20%">
-<img src="assets/capabilities/knowledge.png" alt="Knowledge Base" width="160" /><br />
-<b>Knowledge Base</b><br />
-<sub>Unified knowledge graph with vectorized RAG and continuous learning.</sub>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/runbook.png" alt="Runbook" width="240" />
+<br /><br />
+<b>Runbook</b>
+<br />
+<sub>100+ playbooks with scheduled<br />and event-triggered automation.</sub>
+<br /><br />
 </td>
-<td align="center" width="20%">
-<img src="assets/capabilities/topology.png" alt="Dynamic Topology" width="160" /><br />
-<b>Dynamic Topology</b><br />
-<sub>Real-time dependency mapping with auto-discovery.</sub>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/connections.png" alt="Connections" width="240" />
+<br /><br />
+<b>Connections</b>
+<br />
+<sub>50+ built-in and MCP connectors.<br />100+ integrations.</sub>
+<br /><br />
 </td>
-<td align="center" width="20%">
-<img src="assets/capabilities/memory.png" alt="Memory Architecture" width="160" /><br />
-<b>Memory Architecture</b><br />
-<sub>Context-aware agents with short-term and long-term memory.</sub>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/knowledge.png" alt="Knowledge Base" width="240" />
+<br /><br />
+<b>Knowledge Base</b>
+<br />
+<sub>Unified knowledge graph with<br />vectorized RAG and continuous learning.</sub>
+<br /><br />
 </td>
-<td align="center" width="20%">
-<img src="assets/capabilities/guardrails.png" alt="Guardrails Engine" width="160" /><br />
-<b>Guardrails Engine</b><br />
-<sub>PII detection, schema enforcement, injection defense.</sub>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/topology.png" alt="Dynamic Topology" width="240" />
+<br /><br />
+<b>Dynamic Topology</b>
+<br />
+<sub>Real-time dependency mapping<br />with auto-discovery.</sub>
+<br /><br />
 </td>
-<td align="center" width="20%">
-<img src="assets/capabilities/observability.png" alt="Observability" width="160" /><br />
-<b>Observability</b><br />
-<sub>OpenTelemetry tracing, LLM evaluation, executive dashboards.</sub>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/memory.png" alt="Memory Architecture" width="240" />
+<br /><br />
+<b>Memory Architecture</b>
+<br />
+<sub>Context-aware agents with<br />short-term and long-term memory.</sub>
+<br /><br />
 </td>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/guardrails.png" alt="Guardrails Engine" width="240" />
+<br /><br />
+<b>Guardrails Engine</b>
+<br />
+<sub>PII detection, schema enforcement,<br />and injection defense.</sub>
+<br /><br />
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br />
+<img src="assets/capabilities/observability.png" alt="Observability" width="240" />
+<br /><br />
+<b>Observability</b>
+<br />
+<sub>OpenTelemetry tracing, LLM evaluation,<br />and executive dashboards.</sub>
+<br /><br />
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
 </tr>
 </table>
 
@@ -128,65 +205,83 @@ CloudThinker unifies AI-driven cloud operations into a single platform, combinin
 
 ## Built-in AI Agents
 
-CloudThinker ships with specialized AI agents that work as your team:
-
-| Agent | Role | Expertise |
-|-------|------|-----------|
-| **Alex** — Cloud Engineer | Cloud resources, performance, cost, security compliance | 8+ years AWS Solutions Architect experience |
-| **Kai** — Kubernetes Engineer | Container orchestration, cluster design, CI/CD automation | CKA & CKAD certified |
-| **Anna** — General Manager | Cross-functional coordination, technical oversight, strategic planning | 20+ years technology leadership |
-| **Oliver** — Security Engineer | Real-time threat detection, security audits, incident response | Certified security professional |
-| **Tony** — Database Engineer | Performance optimization, backup strategies, data resilience | 10+ years database administration |
+<table>
+<tr>
+<td align="center" width="20%">
+<br />
+<b>Alex</b><br />
+<sub>Cloud Engineer</sub>
+<br /><br />
+<sub>8+ yrs AWS Solutions Architect.<br />Cost, security, performance.</sub>
+<br /><br />
+</td>
+<td align="center" width="20%">
+<br />
+<b>Kai</b><br />
+<sub>Kubernetes Engineer</sub>
+<br /><br />
+<sub>CKA & CKAD certified.<br />Containers, clusters, CI/CD.</sub>
+<br /><br />
+</td>
+<td align="center" width="20%">
+<br />
+<b>Anna</b><br />
+<sub>General Manager</sub>
+<br /><br />
+<sub>20+ yrs tech leadership.<br />Cross-functional coordination.</sub>
+<br /><br />
+</td>
+<td align="center" width="20%">
+<br />
+<b>Oliver</b><br />
+<sub>Security Engineer</sub>
+<br /><br />
+<sub>Certified professional.<br />Threat detection, audits.</sub>
+<br /><br />
+</td>
+<td align="center" width="20%">
+<br />
+<b>Tony</b><br />
+<sub>Database Engineer</sub>
+<br /><br />
+<sub>10+ yrs DBA. Performance,<br />backup, data resilience.</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
 ---
 
 ## Integrations
 
-CloudThinker connects with your existing stack:
+<div align="center">
 
-- **Cloud Providers:** AWS, Azure, GCP, Kubernetes
-- **DevOps:** GitHub, GitLab
-- **Databases:** PostgreSQL, MySQL
-- **Communication:** Slack
-- **Protocols:** MCP (Model Context Protocol)
-- **100+ integrations** with enterprise-grade security
+**AWS** &nbsp;&bull;&nbsp; **Azure** &nbsp;&bull;&nbsp; **GCP** &nbsp;&bull;&nbsp; **Kubernetes** &nbsp;&bull;&nbsp; **GitHub** &nbsp;&bull;&nbsp; **GitLab** &nbsp;&bull;&nbsp; **Slack** &nbsp;&bull;&nbsp; **PostgreSQL** &nbsp;&bull;&nbsp; **MySQL** &nbsp;&bull;&nbsp; **MCP**
 
----
+<sub>100+ integrations with enterprise-grade security</sub>
 
-## Services
-
-### Cloud Professional Services
-
-End-to-end cloud infrastructure design, migration support, and optimization consulting for leaner, smarter cloud operations.
-
-### AI Innovation Services
-
-Custom AI solution development, workflow automation, and intelligent agent creation to transform your business with agentic AI.
+</div>
 
 ---
 
 ## Issue Tracker
 
-This repository serves as CloudThinker's public issue tracker. Use it to:
+This repository serves as CloudThinker's public issue tracker:
 
 - **Report bugs** — Describe the issue, steps to reproduce, and expected behavior
-- **Request features** — Share your use case and how a new feature would help your workflow
+- **Request features** — Share your use case and how a new feature would help
 - **Ask questions** — Get help from the CloudThinker team and community
 
 Please use the [issue templates](../../issues/new/choose) when available to help us triage faster.
 
 ---
 
-## Links
+<div align="center">
 
-- [Website](https://cloudthinker.ai)
-- [Documentation](https://docs.cloudthinker.ai)
-- [Platform](https://cloudthinker.ai/platform)
-- [Pricing](https://cloudthinker.ai/pricing)
-- [Contact](https://cloudthinker.ai/contact)
+<a href="https://cloudthinker.io">Website</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://docs.cloudthinker.io">Documentation</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://cloudthinker.io/platform">Platform</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://cloudthinker.io/pricing">Pricing</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://cloudthinker.io/contact">Contact</a>
 
----
+<br />
 
-## License
+<sub>See <a href="LICENSE">LICENSE</a> for details.</sub>
 
-See [LICENSE](LICENSE) for details.
+</div>
