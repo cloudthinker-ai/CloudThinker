@@ -6,8 +6,8 @@ labels: bug
 assignees: ''
 ---
 
-**Module/Feature**
-Which module or feature is affected? (e.g., Code Review, Incident Response, CloudKeeper, SlackOps, etc.)
+**Capability**
+Which capability is affected? (e.g., Resolve, Review, Cyber, Optimize, Automation, Customize, CLI)
 
 **Describe the bug**
 A clear and concise description of what the bug is.
