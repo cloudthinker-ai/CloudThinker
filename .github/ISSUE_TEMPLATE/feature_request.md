@@ -6,8 +6,8 @@ labels: enhancement
 assignees: ''
 ---
 
-**Module/Feature**
-Which module or capability does this relate to? (e.g., Code Review, Incident Response, Skills Framework, etc.)
+**Capability**
+Which capability does this relate to? (e.g., Resolve, Review, Cyber, Optimize, Automation, Customize, CLI)
 
 **Problem statement**
 What problem are you trying to solve? Describe the pain point or gap.

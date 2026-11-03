@@ -6,8 +6,8 @@ labels: question
 assignees: ''
 ---
 
-**Module/Feature**
-Which module or feature is your question about? (e.g., Code Review, Incident Response, Platform, etc.)
+**Capability**
+Which capability is your question about? (e.g., Resolve, Review, Cyber, Optimize, Automation, Customize, CLI)
 
 **Your question**
 Describe your question in detail.
